@@ -1,0 +1,7 @@
+*.egg-info/
+.idea
+build/
+.pypric
+/dist/
+pyproject.toml
+mx_recordio/lib/libmxnet.so
