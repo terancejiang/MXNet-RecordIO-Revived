@@ -47,7 +47,7 @@ cp $CONDA_HOME/envs/{your_env_name}/lib/python3.6/site-packages/mxnet/libmxnet.s
 
 #### Step2:
 
-The original MXnet is build on earlier version of Ubuntu, therefore its relay on **libgfortran.so.3**.
+The original MXnet is build on earlier version of Ubuntu, therefore its rely on **libgfortran.so.3**.
 
 But libgfortran3 is no longer supported after Ubuntu 20.04. It depends on an older version of gcc which is no longer maintained in this version of the distribution.
 
