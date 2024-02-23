@@ -1,0 +1,3 @@
+The libmxnet.so can be found in $CONDA_HOME/envs/{your_env_name}/lib/{yout_python_version}/site-packages/mxnet
+copy the libmxnet.so to this directory
+
